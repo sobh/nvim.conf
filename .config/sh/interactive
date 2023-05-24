@@ -1,8 +1,0 @@
-#!/bin/sh
-# vim: filetype=sh
-#
-# Descrioption:	sh interactive shell startup.
-#
-
-. $HOME/.config/shell/interactive
-

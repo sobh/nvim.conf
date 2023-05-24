@@ -1,3 +1,0 @@
-#!/bin/sh
-# Description:	Print time stamp for naming files.
-date +'%F_%H-%M-%S'

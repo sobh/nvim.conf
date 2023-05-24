@@ -1,4 +1,0 @@
-#!/bin/sh
-# Description:	Create new executable file.
-touch $1
-chmod a+x $1

@@ -1,7 +1,0 @@
-#!/bin/sh
-# vim: filetype=sh
-#
-# Descrioption:	sh login shell startup.
-
-. $HOME/.config/shell/login
-

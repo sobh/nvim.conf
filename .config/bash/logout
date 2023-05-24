@@ -1,7 +1,0 @@
-#!/bin/bash
-# vim: filetype=bash
-#
-# Description:	bash logout shell.
-
-. $HOME/.config/shell/logout
-

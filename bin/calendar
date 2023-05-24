@@ -1,5 +1,0 @@
-#!/bin/sh
-# vim: filetype=sh
-# Description:	Start calendar app.
-# Depends On:	gotweb
-gotweb && $BROWSER --app=https://calendar.google.com
